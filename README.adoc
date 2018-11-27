@@ -1,6 +1,6 @@
 = Mobile Docs
 
-Our goal is to help users of AeroGear projects "understand things well and not feel like they're dealing with a capricious minor god instead of a product." footnote:[Laura Bailey]
+Our goals are to help users of AeroGear projects "understand things well and not feel like they're dealing with a capricious minor god instead of a product." footnote:[Laura Bailey]
 
 This readme introduces the standards for AeroGear docs.
 
