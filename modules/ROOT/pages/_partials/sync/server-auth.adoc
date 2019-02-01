@@ -51,7 +51,7 @@ const server = VoyagerServer(apolloConfig, voyagerConfig)
 
 The link:https://github.com/aerogear/voyager-server/blob/master/examples/keycloak[Keycloak Example Server Guide] has an example server based off the instructions above and shows all of the steps needed to get it running.
 
-= Using the `@hasRole` Directive in Your Schema
+= Using the `@hasRole` Directive in a Schema
 
 The Voyager Keycloak module provides the `@hasRole` directive to define role based authorisation in your schema. The `@hasRole` directive is a special annotation that can be applied to
 
